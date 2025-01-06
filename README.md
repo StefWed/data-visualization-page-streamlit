@@ -19,7 +19,7 @@ The purpose of this project is to showcase different examples on using Streamlit
 
 ## Project Description
 ### Dogs in Zurich Example
-A fun project using the official dog population in Zurich, with examples on how to add further information like in this case size of Zurich/ each Stadtkreis (borough) in square meters or human population. The oroginal data set was downloaded from the following page. Additional data is referenced within the respective notebook. 
+A fun project using the official dog population in Zurich, with examples on how to add further information like in this case size of Zurich/ each Stadtkreis (borough) in square meters or human population. The oroginal data set was downloaded from the following page [Hundebestaende der Stadt Zuerich](https://data.stadt-zuerich.ch/dataset/sid_stapo_hundebestand_od1001). Additional data sources are referenced within the respective notebook. 
 
 The project starts with absolute numbers, change over the years 2015-2024 and displays them in line plots. Differences for each borough are shown using subplots.
 
