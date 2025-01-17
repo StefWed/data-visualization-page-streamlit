@@ -18,10 +18,10 @@ The purpose of this project is to showcase different examples on using Streamlit
 * Streamlit
 
 ## Project Description
-### Dogs in Zurich Example
-A fun project using the official dog population in Zurich, with examples on how to add further information like in this case size of Zurich/ each Stadtkreis (borough) in square meters or human population. The oroginal data set was downloaded from the following page [Hundebestaende der Stadt Zuerich](https://data.stadt-zuerich.ch/dataset/sid_stapo_hundebestand_od1001). Additional data sources are referenced within the respective notebook. 
+### Trends in Urban Population: Dogs in Zurich Example
+A fun project using the official dog population in Zurich, with examples on how to add further information like in this case size of Zurich/ each Stadtkreis (borough) in square meters or human population. The original data set was downloaded from the following page [Hundebestaende der Stadt Zuerich](https://data.stadt-zuerich.ch/dataset/sid_stapo_hundebestand_od1001). Additional data sources are referenced within the respective notebook. 
 
-The project starts with absolute numbers and number of dogs per 1000 inhabitants for entire area of Zurich city, with change over the years 2015-2024 and displays them in line plots. Differences for each borough are shown using subplots - abolute numbers and annual growth rates are observed. The focus changes to the year 2023, the most current year where all necessary data was available. Geo plots are now being introduced for visualisation purposes. Results were noted.
+The project starts with absolute numbers and number of dogs per 1000 inhabitants for entire area of Zurich city, with change over the years 2015-2024 and displays them in line plots. Differences for each borough are shown using subplots - absolute numbers and annual growth rates are observed. The focus changes to the year 2023, the most current year where all necessary data was available. Geo plots are now being introduced for visualisation purposes. Results were noted.
 
 
 
@@ -32,6 +32,6 @@ The project starts with absolute numbers and number of dogs per 1000 inhabitants
 3. Data processing/transformation scripts are being kept [here](https://github.com/StefWed/data-visualization-page-streamlit/tree/main/notebooks).
 4. Python scripts for Streamlit applications are being kept [here](https://github.com/StefWed/data-visualization-page-streamlit/tree/main/src).
 
-## Featured Notebooks/Analysis/Deliverables
-* 
+## Featured Notebooks
+* [Dogs in Zurich Notebook](https://github.com/StefWed/data-visualization-page-streamlit/blob/main/notebooks/DogsinZurichDataset.ipynb)
 
