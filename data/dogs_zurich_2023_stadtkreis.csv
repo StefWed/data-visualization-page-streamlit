@@ -1,0 +1,13 @@
+KreisCd,AnzahlHunde,FlaecheStadtkreis,AnzahlEinwohner,HundeProKM2,HundePer1000EW,StadtQuartiere
+11,1576,13.42,78801,117.4,20.0,"['Affoltern', 'Seebach', 'Oerlikon']"
+7,1297,15.02,39647,86.4,32.7,"['Funtern', 'Hottingen', 'Hirslanden', 'Witikon']"
+9,1182,12.07,59841,97.9,19.8,"['Albisriesen', 'Altstetten']"
+2,973,11.07,37639,87.9,25.9,"['Wollishofen', 'Leimbach', 'Enge']"
+3,863,8.65,50950,99.8,16.9,['Wiedikon']
+10,829,9.09,41411,91.2,20.0,"['Hoengg', 'Wipkingen']"
+6,653,5.1,35688,128.0,18.3,"['Unterstrass', 'Oberstrass']"
+12,642,5.97,35537,107.5,18.1,['Schwamendingen']
+8,508,4.81,17860,105.6,28.4,['Riesbach']
+4,487,2.9,29944,167.9,16.3,['Aussersihl']
+5,342,1.99,15874,171.9,21.5,['Industriequartier']
+1,141,1.8,5890,78.3,23.9,['Altstadt']
